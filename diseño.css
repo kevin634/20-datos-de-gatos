@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+.img1{
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin: auto;
+ 
+}
+.todo{
+    text-align: center;
+    font-size: 180%;
+    padding: 5px;
+      background-color: red;
+      color: #000000;
+}
+.todo2{
+   
+    margin: auto;
+    font-size: 150%;
+    text-align: center;
+    background-color: aqua;
+  padding: 10px;
+  color: #0000ff;
+}
+.img2{
+    width: 90%;
+    height: 90%;
+    display: block;
+    margin: auto;
+ 
+}
